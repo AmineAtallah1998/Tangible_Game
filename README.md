@@ -1,4 +1,6 @@
 # Tangible_Game
+->Description:
+
 Tangible game developed during introduction to computer vision (CS211) course at EPFL.
 
 ->Images from the game: 
